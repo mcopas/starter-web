@@ -15,3 +15,7 @@ as stated, purpose is to provide a simple example
 Updating details again for example
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training..
