@@ -1,2 +1,4 @@
 # this is where we log files we want git to ignore and not commit
+# *.log  (this ignores anything ending in log)
+# log/  (this ignores any files in the log directory)
 
